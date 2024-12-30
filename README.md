@@ -1,3 +1,36 @@
+# TinDog Landing Page
+
+Welcome to the TinDog Landing Page project! This responsive webpage showcases the features and benefits of TinDog, a fictional app for connecting dogs and their owners. Built with HTML, CSS, and Bootstrap, this project demonstrates front-end web development practices.
+
+## Features
+
+- **Responsive Design**: Adapts to various screen sizes for a seamless user experience.
+- **Modern UI**: Incorporates Bootstrap for sleek and modern styling.
+- **Interactive Sections**: Includes pricing plans, testimonials, and features sections.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+
+## Getting Started
+
+### Prerequisites
+
+To view or edit this project locally, ensure you have the following:
+
+- A modern web browser (Google Chrome, Firefox, etc.)
+- A code editor (e.g., VS Code)
+- [Node.js](https://nodejs.org/) (optional, for advanced development)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/TinDog-Landing-Page.git
+
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
